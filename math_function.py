@@ -20,5 +20,5 @@ def welcome():
 
 if __name__ == "__main__":
     welcome()
-    factorial(4)
+    print(factorial(4))
     
